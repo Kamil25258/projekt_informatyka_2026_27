@@ -2,3 +2,4 @@
 
 Autor: Kamil Bartoszewski
 Laboratorium informatyki 2026/27
+Dodana zmiana

@@ -4,3 +4,5 @@ int main() {
 std::cout << "Hello, Git!"; 
 return 0; 
 }
+
+//zmiana
